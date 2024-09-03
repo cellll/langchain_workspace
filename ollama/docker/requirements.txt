@@ -1,0 +1,15 @@
+pytest
+pypdf
+tiktoken
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-elasticsearch
+langchain-openai
+langchain-ollama
+langserve[all]
+uvicorn
+ollama
+jupyter
+notebook
